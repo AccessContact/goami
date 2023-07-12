@@ -1,8 +1,14 @@
 # github.com/davecgh/go-spew v1.1.0
+## explicit
 github.com/davecgh/go-spew/spew
 # github.com/facebookgo/ensure v0.0.0-20160127193407-b4ab57deab51
+## explicit
 github.com/facebookgo/ensure
 # github.com/facebookgo/stack v0.0.0-20160209184415-751773369052
+## explicit
 github.com/facebookgo/stack
 # github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870
+## explicit
 github.com/facebookgo/subset
+# github.com/heltonmarx/goami v1.0.0
+## explicit
