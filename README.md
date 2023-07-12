@@ -1,6 +1,7 @@
-Access goami
+Access goami   [![Go](https://github.com/AccessContact/goami/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/AccessContact/goami/actions/workflows/go.yml)
 =====
 Asterisk Manager Interface (AMI) client in Go.
+
 
 ## About
 This code is based on C [libami](http://sourceforge.net/projects/amsuite/files/libami/) library interface
