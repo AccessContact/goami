@@ -1,4 +1,4 @@
-goami
+Access goami
 =====
 Asterisk Manager Interface (AMI) client in Go.
 
@@ -76,16 +76,3 @@ func main() {
 }
 ```
 
-## Documentation
-
-This projects documentation can be found on godoc at [goami](http://godoc.org/github.com/heltonmarx/goami/ami)
-and supports:
- - *master*: [Asterisk 14 AMI Actions](https://wiki.asterisk.org/wiki/display/AST/Asterisk+14+AMI+Actions)
- - ami.v10: [Asterisk 10 AMI Actions](https://wiki.asterisk.org/wiki/display/AST/Asterisk+10+AMI+Actions)
- - ami.v13: [Asterisk 13 AMI Actions](https://wiki.asterisk.org/wiki/display/AST/Asterisk+13+AMI+Actions)
- - ami.v14: [Asterisk 14 AMI Actions](https://wiki.asterisk.org/wiki/display/AST/Asterisk+14+AMI+Actions)
-
-## License
-
-MIT-LICENSE. See [LICENSE](https://github.com/heltonmarx/goami/blob/master/LICENSE)
-or the LICENSE file provided in the repository for details.
